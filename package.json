@@ -1,0 +1,21 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "fs-extra": "^11.3.2",
+    "glob": "^11.0.3",
+    "handlebars": "^4.7.8",
+    "vite": "^7.2.2",
+    "vite-plugin-handlebars": "^2.0.0"
+  }
+}
